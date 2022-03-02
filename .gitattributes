@@ -1,2 +1,2 @@
-# * text=auto
-* text working-tree-encoding=UTF-8 eol=crlf
+* text=auto
+*.txt text working-tree-encoding=UTF-8 eol=crlf
